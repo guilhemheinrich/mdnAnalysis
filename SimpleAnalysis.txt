@@ -1,0 +1,30 @@
+Durée de maintien de la femme dans la MDN après la délivrance  en heure
+
+Nombre d'individus : 26
+Moyenne : 4.30320512821
+Mediane : 4.60833333333
+Minimum : 0.333333333333
+Maximum : 8.0
+
+
+
+Nombre de consultations à la MDN
+
+Nombre d'individus : 56
+Moyenne : 5.75
+Mediane : 6.0
+Minimum : 3
+Maximum : 12
+
+
+
+Nombre de séances de préparation à l'accouchement
+
+Nombre d'individus : 56
+Moyenne : 6.125
+Mediane : 7.0
+Minimum : 1
+Maximum : 7
+
+
+
