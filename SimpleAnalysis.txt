@@ -1,10 +1,60 @@
-Durée de maintien de la femme dans la MDN après la délivrance  en heure
+*Durée d'ouverture de l'œuf en heure
 
-Nombre d'individus : 26
-Moyenne : 4.30320512821
-Mediane : 4.60833333333
-Minimum : 0.333333333333
-Maximum : 8.0
+Nombre d'individus : 30
+Moyenne : 2.17027777778
+Mediane : 0.266666666667
+Minimum : 0.00833333333333
+Maximum : 23.2833333333
+
+
+
+* acct Hands 0=Off / 1=On
+
+Nombre d'individus : 32
+Moyenne : 0.25
+Mediane : 0.0
+Minimum : 0
+Maximum : 1
+
+
+
+*Alimentation pendant le travail: 0 = pas d'alimentation 1= liquide,                               2 = solide,                              3= solide+liquide
+
+Nombre d'individus : 38
+Moyenne : 1.28947368421
+Mediane : 1.0
+Minimum : 0
+Maximum : 3
+
+
+
+Age gestationnel en SA révolues
+
+Nombre d'individus : 33
+Moyenne : 39.2727272727
+Mediane : 40
+Minimum : 35
+Maximum : 41
+
+
+
+*Durée efforts expulsifs en heure
+
+Nombre d'individus : 28
+Moyenne : 0.343452380952
+Mediane : 0.25
+Minimum : 0.0833333333333
+Maximum : 1.25
+
+
+
+Mode d'alimentation à 7 jours : 1= allaitement maternel 2= allaitement artificiel 3= allaitement mixte 
+
+Nombre d'individus : 53
+Moyenne : 1.24528301887
+Mediane : 1
+Minimum : 1
+Maximum : 3
 
 
 
@@ -15,6 +65,36 @@ Moyenne : 5.75
 Mediane : 6.0
 Minimum : 3
 Maximum : 12
+
+
+
+Durée de maintien de la femme dans la MDN après la délivrance  en heure
+
+Nombre d'individus : 26
+Moyenne : 4.30320512821
+Mediane : 4.60833333333
+Minimum : 0.333333333333
+Maximum : 8.0
+
+
+
+*Nombre de TV réalisés pendant le travail
+
+Nombre d'individus : 38
+Moyenne : 2.02631578947
+Mediane : 1.0
+Minimum : 0
+Maximum : 7
+
+
+
+Poids de naissance en grammes 
+
+Nombre d'individus : 54
+Moyenne : 3227.22222222
+Mediane : 3315.0
+Minimum : 1700
+Maximum : 4100
 
 
 
